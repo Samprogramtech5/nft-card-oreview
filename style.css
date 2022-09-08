@@ -1,0 +1,62 @@
+body{
+    background-color: hsl(217, 54%, 11%);
+}
+.box{
+    background-color: hsl(216, 50%, 16%);
+    height: 85vh;
+    width: 355px;
+    margin-left: 550px;
+    margin-top: 50px;
+     border-radius: 10px;
+}
+img{
+    height: 40vh;
+    width: 300px;
+    margin-top: 10px;
+    margin-left: 20px;
+    border-radius: 10px;
+}
+
+    
+
+.text1{
+    color: white;
+}
+.text2{
+  color:hsl(213, 12%, 44%);
+}
+.ether{
+    height: 30px;
+    width: 20px;
+}
+.clock{
+    height: 20px;
+    width: 20px;
+    margin-left: 240px;
+}
+.tex3{
+    display: flex;
+}
+.avatar{
+    height: 30px;
+    width: 25px;
+}
+hr{
+    margin-top:30px;
+    width: 300px;
+}
+.container{
+    display: flex;
+    color: white;
+}
+.container1{
+    display: flex;
+
+}
+.container2{
+    display: flex;
+    justify-content: center;
+}
+.eth{
+    color: cyan;
+}
